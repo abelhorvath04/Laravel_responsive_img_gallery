@@ -1,4 +1,4 @@
-Simple App with **Laravel** and **Javascript** to show wonderful pictures. 
+Responsive App with **Laravel** and **Javascript** to show wonderful pictures. 
 
 It uses the famous _Lightbox 2_ Javascript library to display images in an elegant manner. Practice Laravel routing, fetch API calls.
 
